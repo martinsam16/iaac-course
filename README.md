@@ -67,12 +67,10 @@ Diferentes enfoques para la gestión de servidores:
 
 ## Ventajas
 
-​														↗️ 	💻
-
-📜			➡️	🐙	➡️	🚰⚙️		➡️ 	💻
-
-​														↘️ 	💻
-
-Definición ➡️	git	 ➡️ 	CI/CD 	➡️ 	aprovisionamiento
+|            |      |      |      |       |  ↗️   |         💻         |
+| :--------: | :--: | :--: | :--: | :---: | :--: | :---------------: |
+|     📜      |  ➡️   |  🐙   |  ➡️   |  🚰⚙️   |  ➡️   |         💻         |
+|            |      |      |      |       |  ↘️   |         💻         |
+| Definición |      | Git  |      | CI/CD |      | Aprovisionamiento |
 
 **Parametrizable** Diferente por ambiente (dev, qa, prod)
